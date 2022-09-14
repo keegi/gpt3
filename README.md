@@ -6,6 +6,12 @@ Youtube [Create React App](https://www.youtube.com/watch?v=LMagNcngvcU).
 
 In the project directory, you can run:
 
+### `참고사이트`
+
+온라인 Gradient Generator = 'https://angrytools.com/gradient/' \
+애니메이션 코드 생성 = 'https://animista.net/play/basic' \
+BEM 가이드 = 'https://sparkbox.com/foundry/bem_by_example'
+
 ### `npm start`
 
 Runs the app in the development mode.\

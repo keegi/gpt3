@@ -8,6 +8,7 @@ npm install react-icons
 
 ### `참고사이트`
 
+github = 'https://github.com/adrianhajdin/project_modern_ui_ux_gpt3' \
 온라인 Gradient Generator = 'https://angrytools.com/gradient/' \
 애니메이션 코드 생성 = 'https://animista.net/play/basic' \
 BEM 가이드 = 'https://sparkbox.com/foundry/bem_by_example'

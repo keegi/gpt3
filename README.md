@@ -2,6 +2,26 @@
 
 Youtube [Create React App](https://www.youtube.com/watch?v=LMagNcngvcU).
 
+## Deployment(배포)
+
+### `FTP 사용`
+
+터미널 : npm run build -> build 폴더 생성 : \
+FTP 접속후 public 또는 html 폴더 안에 내 컴퓨터에 생성된 build 폴더 안에 파일을 넣는다.
+
+### `github 사용`
+
+터미널 : npm i gh-pages (gh-pages는 github의 github page 도메인을 만들어준다.) \   
+package.json 안에 \        
+  "scripts": {\
+    "deploy": "gh-pages -d build",\
+    "predeploy": "npm run build"\
+  },\  
+  맨 마지막에 홈페이지 주소 입력\
+  "homepage": "https://keegi.github.io/gpt3/"\
+  }\
+  이후 터미널에 npm run deploy 실행  ->  github 도메인 https://keegi.github.io/gpt3/ 실행됨.
+
 ## 추가 설치 파일
 
 npm install react-icons

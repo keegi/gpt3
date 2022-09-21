@@ -2,9 +2,9 @@
 
 Youtube [Create React App](https://www.youtube.com/watch?v=LMagNcngvcU).
 
-## Available Scripts
+## 추가 설치 파일
 
-In the project directory, you can run:
+npm install react-icons
 
 ### `참고사이트`
 
